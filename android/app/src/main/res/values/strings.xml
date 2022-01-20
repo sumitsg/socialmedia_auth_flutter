@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">social authentication</string>
+    <!-- <string name="facebook_app_id">635876247665964</string>
+    <string name="fb_login_protocol_scheme">fb635876247665964</string> -->
+
+    <string name="facebook_app_id">908292529884533</string>
+    <string name="fb_login_protocol_scheme">fb908292529884533</string>
+
+</resources>
